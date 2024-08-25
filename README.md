@@ -1,6 +1,8 @@
 # Stock-info-app
 
 <h1>Welcome!</h1>
+<p1> I created this app as a final project for a Python class I had to take as training for an apprentiscehsip.</p1>
+
 
 <h2>Setting up!</h2>
 <p1> First you must get all the code into an ide such as VS code.</p1>
